@@ -7,7 +7,7 @@ Whether you're a beginner or an experienced practitioner, this repository aims t
 
 The purpose of this repository is to:
 
-- Provide explanations of fundamental AI algorithms. (Do not forget to check the _breathtaking_ comments of mine.
+- Provide explanations of fundamental AI algorithms (Do not forget to check the _breathtaking_ comments of mine.).
 - Offer resources for studying each algorithm, including articles, tutorials, and academic papers (This repo will be updated regularly).
 - Encourage collaboration and contributions from the community to improve the content and add new algorithms.
 
