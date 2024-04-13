@@ -126,6 +126,9 @@ legend:
     - [ ] Gradient Boosting Machines (GBM)
     - [ ] Gradient Boosted Regression Trees (GBRT)
     - [ ] Random Forest
+   
+**Extras:**
+- [x] Search Algorithms
 
 
 ## Contribution Guidelines
