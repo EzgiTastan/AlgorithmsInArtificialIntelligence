@@ -139,8 +139,7 @@ legend:
 - [ ] Bellman Ford Algorithm
 - [ ] Binary Search Tree
 - [ ] Prüfer Sequence
-- [x] Breadth First Search (BFS) in Trees
-- [x] Breadth First Search (BFS) in Graphs
+- [x] [Breadth First Search (BFS) in Trees & Graphs](https://github.com/EzgiTastan/AlgorithmsInArtificialIntelligence/blob/main/Search_Algorithms/BFS-breadth-first-search.py)
 - [ ] Depth First Search (DFS)
 - [ ] Depth Limited Search Algorithm
 - [ ] Iterative Deepening Depth First Search (IDDFS)
