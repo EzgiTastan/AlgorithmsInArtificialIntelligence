@@ -127,8 +127,44 @@ legend:
     - [ ] Gradient Boosted Regression Trees (GBRT)
     - [ ] Random Forest
    
-**Extras:**
-- [x] Search Algorithms
+
+### Extras:
+
+#### Uninformed Search
+
+- [ ] Linear Search
+- [ ] Binary Search
+- [ ] Kruskal Algorithm
+- [ ] Dijkstra Algorithm
+- [ ] Bellman Ford Algorithm
+- [ ] Binary Search Tree
+- [ ] Prüfer Sequence
+- [x] Breadth First Search (BFS) in Trees
+- [x] Breadth First Search (BFS) in Graphs
+- [ ] Depth First Search (DFS)
+- [ ] Depth Limited Search Algorithm
+- [ ] Iterative Deepening Depth First Search (IDDFS)
+- [ ] Patricia Trees
+- [ ] Trie Trees
+- [ ] B-Trees
+- [ ] Horspool Search Algorithm
+- [ ] Knuth-Morris-Pratt (KMP) Search Algorithm
+- [ ] Boyer-Moore Search Algorithm
+- [ ] Brute Force Text Search Algorithm
+- [ ] DFA Text Search Algorithm
+- [ ] Reverse Factor Algorithm
+
+#### Informed Search
+
+- [ ] Minimax Trees
+- [ ] Simulated Annealing Algorithm
+- [ ] Hill Climbing Algorithm
+- [ ] Bees Search Algorithm
+- [ ] A* Search Algorithm
+- [ ] Backtracking Algorithm
+- [ ] Beam Search Algorithm
+
+
 
 
 ## Contribution Guidelines
