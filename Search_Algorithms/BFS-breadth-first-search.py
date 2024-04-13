@@ -1,50 +1,32 @@
-from collections import defaultdict, deque
+# to be able to use "deque", I import 'collections'
+import collections
 
-# Class to represent a graph using adjacency list
+# "graph" is a dictionary. We'll be applying this code into the graph.
+# "root" is our starting node!
+def bfs(graph, root):
+	#"visited" is created to store where we've visited :)
+    #"queue" is created to store which nodes we'll visit.
+    #the 'root' is the first node we've visited, so...
+    visited, queue = set(), collections.deque([root])
+    visited.add(root)
 
+    while queue:
+        # I remove the node from the queue and send it to the "vertex"
+        vertex = queue.popleft()
+        # I wanted to print which node I've removed.
+        print(str(vertex) + " ", end="")
 
-class Graph:
-	def __init__(self):
-		self.adjList = defaultdict(list)
-
-	# Function to add an edge to the graph
-	def addEdge(self, u, v):
-		self.adjList[u].append(v)
-
-	# Function to perform Breadth First Search on a graph represented using adjacency list
-	def bfs(self, startNode):
-		# Create a queue for BFS
-		queue = deque()
-		visited = [False] * (max(self.adjList.keys()) + 1)
-
-		# Mark the current node as visited and enqueue it
-		visited[startNode] = True
-		queue.append(startNode)
-
-		# Iterate over the queue
-		while queue:
-			# Dequeue a vertex from queue and print it
-			currentNode = queue.popleft()
-			print(currentNode, end=" ")
-
-			# Get all adjacent vertices of the dequeued vertex currentNode
-			# If an adjacent has not been visited, then mark it visited and enqueue it
-			for neighbor in self.adjList[currentNode]:
-				if not visited[neighbor]:
-					visited[neighbor] = True
-					queue.append(neighbor)
+		# To travel all the nodes which are neighbour of "vertex" node
+        for neighbour in graph[vertex]:
+            # If not visited,
+            if neighbour not in visited:
+                #mark it as "visited"
+                visited.add(neighbour)
+                #and add the neighbour to the "queue".
+                queue.append(neighbour)
 
 
-# Create a graph
-graph = Graph()
-
-# Add edges to the graph
-graph.addEdge(0, 1)
-graph.addEdge(0, 2)
-graph.addEdge(1, 3)
-graph.addEdge(1, 4)
-graph.addEdge(2, 4)
-
-# Perform BFS traversal starting from vertex 0
-print("Breadth First Traversal starting from vertex 0:", end=" ")
-graph.bfs(0)
+if __name__ == '__main__':
+    graph = {0: [1, 2], 1: [2], 2: [3], 3: [1, 2]}
+    print("Following is Breadth First Traversal: ")
+    bfs(graph, 0)
