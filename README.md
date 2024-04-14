@@ -142,7 +142,7 @@ legend:
 - [x] [Breadth First Search (BFS) in Trees & Graphs](https://github.com/EzgiTastan/AlgorithmsInArtificialIntelligence/blob/main/Search_Algorithms/BFS-breadth-first-search.py)
 - [ ] Depth First Search (DFS)
 - [ ] Depth Limited Search Algorithm
-- [x] Uniform Cost Search (UCS)
+- [x] [Uniform Cost Search (UCS)](https://github.com/EzgiTastan/AlgorithmsInArtificialIntelligence/blob/main/Search_Algorithms/UCS-uniform-cost-search.py)
 - [ ] Iterative Deepening Depth First Search (IDDFS)
 - [ ] Patricia Trees
 - [ ] Trie Trees
