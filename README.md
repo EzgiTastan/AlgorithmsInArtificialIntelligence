@@ -140,7 +140,7 @@ legend:
 - [ ] Binary Search Tree
 - [ ] Prüfer Sequence
 - [x] [Breadth First Search (BFS) in Trees & Graphs](https://github.com/EzgiTastan/AlgorithmsInArtificialIntelligence/blob/main/Search_Algorithms/BFS-breadth-first-search.py)
-- [ ] Depth First Search (DFS)
+- [x] [Depth First Search (DFS)](https://github.com/EzgiTastan/AlgorithmsInArtificialIntelligence/blob/main/Search_Algorithms/DFS-depth-first-search.py)
 - [ ] Depth Limited Search Algorithm
 - [x] [Uniform Cost Search (UCS)](https://github.com/EzgiTastan/AlgorithmsInArtificialIntelligence/blob/main/Search_Algorithms/UCS-uniform-cost-search.py)
 - [ ] Iterative Deepening Depth First Search (IDDFS)
@@ -163,9 +163,6 @@ legend:
 - [ ] A* Search Algorithm
 - [ ] Backtracking Algorithm
 - [ ] Beam Search Algorithm
-
-
-
 
 ## Contribution Guidelines
 
