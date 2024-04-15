@@ -163,6 +163,7 @@ legend:
 - [ ] A* Search Algorithm
 - [ ] Backtracking Algorithm
 - [ ] Beam Search Algorithm
+- [ ] Greedy Algorithm
 
 ## Contribution Guidelines
 
