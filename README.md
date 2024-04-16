@@ -163,7 +163,7 @@ legend:
 - [ ] A* Search Algorithm
 - [ ] Backtracking Algorithm
 - [ ] Beam Search Algorithm
-- [ ] Greedy Algorithm
+- [x] [Greedy Algorithm](https://github.com/EzgiTastan/AlgorithmsInArtificialIntelligence/blob/main/Search_Algorithms/Greedy-Leetcode55.py)
 
 ## Contribution Guidelines
 
