@@ -311,3 +311,4 @@ def main():
 
 
 main()
+#reference for the code: YouTube: Coding Spot (check the "Coding an Unbeatable Tic Tac Toe AI Using Python and the Minimax Algorithm" video)
