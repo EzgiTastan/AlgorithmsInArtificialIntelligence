@@ -175,4 +175,4 @@ Contributions to this repository are highly appreciated! Here are a few ways you
 - Report issues or bugs in the current content.
 - Provide feedback and suggestions for improvement.
 
-Please refer to the [Contribution Guidelines](CONTRIBUTING.md) for detailed instructions on how to contribute.
+Please refer to the [CONTRIBUTING.md](https://github.com/EzgiTastan/AlgorithmsInArtificialIntelligence/blob/main/CONTRIBUTING.md) for detailed instructions on how to contribute.
