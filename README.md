@@ -163,6 +163,7 @@ legend:
 - [ ] A* Search Algorithm
 - [ ] Backtracking Algorithm
 - [ ] Beam Search Algorithm
+- [ ] Recursive Best-First Search (RBFS)
 - [x] Greedy Algorithm ([my LeetCode Implementation](https://github.com/EzgiTastan/AlgorithmsInArtificialIntelligence/blob/main/Search_Algorithms/Greedy-Leetcode55.py) and [Probably the best video I could find](https://www.youtube.com/watch?v=71CEj4gKDnE))
 
 ## Contribution Guidelines
