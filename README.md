@@ -156,7 +156,7 @@ legend:
 
 #### Informed Search
 
-- [ ] Minimax Trees
+- [ ] [Minimax Trees (How Computers Play Games)](https://github.com/EzgiTastan/AlgorithmsInArtificialIntelligence/blob/main/Search_Algorithms/MiniMax-TicTacToe.py)
 - [ ] Simulated Annealing Algorithm
 - [ ] Hill Climbing Algorithm
 - [ ] Bees Search Algorithm
