@@ -89,7 +89,7 @@ legend:
 
 11. **Artificial Neural Network (ANN) Algorithms:**
     - [ ] Perceptron
-    - [ ] Multilayer Perceptrons (MLP)
+    - [ ] Multilayer Perceptrons (MLP) (ex:Activation Functions)
     - [ ] Back-Propagation
     - [ ] Stochastic Gradient Descent
     - [ ] Hopfield Network
@@ -126,6 +126,8 @@ legend:
     - [ ] Gradient Boosting Machines (GBM)
     - [ ] Gradient Boosted Regression Trees (GBRT)
     - [ ] Random Forest
+   
+To see an example of AI Algorithms, you can check [this document](https://colab.research.google.com/drive/16w3TDn_tAku17mum98EWTmjaLHAJcsk0?usp=sharing).
    
 
 ### Extras:
