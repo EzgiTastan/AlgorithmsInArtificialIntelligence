@@ -28,7 +28,7 @@ legend:
 ## Machine Learning Algorithms:
 
 1. **Supervised Learning:**
-   - [ ] Linear Regression
+   - [x] [Linear Regression](https://github.com/EzgiTastan/AlgorithmsInArtificialIntelligence/blob/main/supervisedLearning/regression.ipynb)
    - [ ] Logistic Regression
    - [ ] Back Propagation Neural Network
 
