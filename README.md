@@ -178,3 +178,7 @@ Contributions to this repository are highly appreciated! Here are a few ways you
 - Provide feedback and suggestions for improvement.
 
 Please refer to the [CONTRIBUTING.md](https://github.com/EzgiTastan/AlgorithmsInArtificialIntelligence/blob/main/CONTRIBUTING.md) for detailed instructions on how to contribute.
+
+## License
+
+This project is licensed under the GNU General Public License v3.0 (GPLv3). 
