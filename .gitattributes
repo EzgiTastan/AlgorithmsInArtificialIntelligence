@@ -1,0 +1,8 @@
+* text=auto
+*.py text
+*.ipynb text
+*.txt text
+*.csv text
+*.png binary
+*.jpg binary
+*.gif binary
