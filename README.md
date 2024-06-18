@@ -34,7 +34,7 @@ legend:
 
 2. **Unsupervised Learning:**
    - [ ] Apriori algorithm
-   - [ ] K-Means
+   - [x] [K-Means](https://github.com/EzgiTastan/AlgorithmsInArtificialIntelligence/blob/main/unsupervisedLearning/k_means_PCA.py)
 
 3. **Semi-Supervised Learning:**
    - [ ] Extensions to other flexible methods
@@ -104,7 +104,7 @@ legend:
     - [ ] Deep Belief Networks (DBN)
 
 13. **Dimensionality Reduction Algorithms:**
-    - [ ] Principal Component Analysis (PCA)
+    - [x] [Principal Component Analysis (PCA)](https://github.com/EzgiTastan/AlgorithmsInArtificialIntelligence/blob/main/unsupervisedLearning/k_means_PCA.py)
     - [ ] Principal Component Regression (PCR)
     - [ ] Partial Least Squares Regression (PLSR)
     - [ ] Sammon Mapping
